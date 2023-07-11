@@ -1,0 +1,86 @@
+/* Your custom styles */
+.carousel .carousel-indicators li {
+    max-width: 30px;
+    height: 10px;
+    border-radius: 0% !important;
+    cursor: pointer; }
+
+.btn-primary{
+ background: linear-gradient(45deg, slategray ,lightblue);
+}
+.btn-secondary{
+ background: linear-gradient(45deg, slategray ,rgb(169,117,124));
+}
+.btn-success{
+ background: linear-gradient(45deg, darkslategray ,green);
+}
+.btn-danger{
+ background: linear-gradient(45deg, darkslategrey ,red);
+}
+.btn-warning{
+ background: linear-gradient(45deg, darkslategrey ,rgb(255,193,7));
+}
+.btn-info{
+ background: linear-gradient(45deg, darkslategrey ,blue);
+}
+.btn-light{
+ background: linear-gradient(45deg, darkslategrey ,grey);
+}
+
+.btn-dark{
+ background: linear-gradient(45deg, darkslategrey ,black);
+}
+
+
+
+.bg-primary{
+ background: linear-gradient(45deg, slategray ,lightblue);
+}
+.bg-secondary{
+ background: linear-gradient(45deg, slategray ,rgb(169,117,124));
+}
+.bg-success{
+ background: linear-gradient(45deg, darkslategray ,green);
+}
+.bg-danger{
+ background: linear-gradient(45deg, darkslategrey ,red);
+}
+.bg-warning{
+ background: linear-gradient(45deg, darkslategrey ,rgb(255,193,7));
+}
+.bg-info{
+ background: linear-gradient(45deg, darkslategrey ,blue);
+}
+.bg-light{
+ background: linear-gradient(45deg,lightgrey,rgb(235,233,228) );
+}
+.bg-dark{
+ background: linear-gradient(45deg, darkslategrey ,black);
+}
+
+
+
+.badge-primary{
+ background: linear-gradient(45deg, slategray ,lightblue);
+}
+.badge-secondary{
+ background: linear-gradient(45deg, slategray ,rgb(169,117,124));
+}
+.badge-success{
+ background: linear-gradient(45deg, darkslategray ,green);
+}
+.badge-danger{
+ background: linear-gradient(45deg, darkslategrey ,red);
+}
+.badge-warning{
+ background: linear-gradient(45deg, darkslategrey ,rgb(255,193,7));
+}
+.badge-info{
+ background: linear-gradient(45deg, darkslategrey ,blue);
+}
+.badge-light{
+ background: linear-gradient(45deg, darkslategrey ,grey);
+}
+.badge-dark{
+ background: linear-gradient(45deg, darkslategrey ,black);
+}
